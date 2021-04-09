@@ -1,0 +1,4 @@
+# Projeto Alura Frame
+Este curso da Alura traz o desenvolvimento de um formulário que registra as negociações com os valores de data, quantidade, valor e volume. Estes são inseridos na tabela e o volume total é exibido. 
+Utilizamos neste projeto o padrão MVC (Model, View e Controller), ajudando na troca de informações entre a interface e o usuário, com respostas mais dinâmicas.
+Este padrão possibilita uma melhor organização de código, sendo mais fácil separar as funcionalidades da aplicação e identificar os erros quando aparecerem. O desempenho da aplicação também fica mais leve por ser dividido em 3 componentes.
